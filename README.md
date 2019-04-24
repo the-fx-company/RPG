@@ -1,2 +1,3 @@
 # RPG
-Our RPG game
+Poster vos fichiers dans les dossiers prévu à cette effet.
+
